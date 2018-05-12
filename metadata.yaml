@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5957'
     url: http://www.gutenberg.org/2009/agents/5957
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15501#Yksink--
 gutenberg_issued: '2005-03-29'
 gutenberg_type: Text
 identifiers:
